@@ -23,3 +23,5 @@ reset.addEventListener('click', () => {
 });
 
 createGrid(16);
+
+
